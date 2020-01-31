@@ -7,7 +7,7 @@ Data
 ---------
 Oxford Inertial Odometry Dataset
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. figure:: images/data_oxford.png
+.. figure:: images/data_oxforfd.png
    :alt: Oxford Inertial Odometry Dataset
 
 **Size:** 1.01 GB.  
