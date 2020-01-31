@@ -30,9 +30,8 @@ Papers
 ------------------
 * Chris Rackauckas, preprint, 2020, Universal_Differential_Equations_for_Scientific_Machine_Learning_
 
-Help
-------------------
--  Still need help ? Email petermor@mit.edu
+
+Still need help ? Email petermor@mit.edu
 
 .. _oxford: http://deepio.cs.ox.ac.uk/
 .. _mit_sciml: https://github.com/mitmath/18S096SciML
