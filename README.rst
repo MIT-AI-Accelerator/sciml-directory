@@ -26,11 +26,13 @@ Scientific ML IAP
 **Link:** mit_sciml_ , theory_course_
 
 
+Papers
+------------------
+* Chris Rackauckas, preprint, 2020, Universal_Differential_Equations_for_Scientific_Machine_Learning_
+
 
 -  Still need help ? Email petermor@mit.edu
 .. _oxford: http://deepio.cs.ox.ac.uk/
 .. _mit_sciml: https://github.com/mitmath/18S096SciML
 .. _theory_course: https://github.com/mitmath/18337
-
-Papers
-------------------
+.. Universal_Differential_Equations_for_Scientific_Machine_Learning: https://arxiv.org/pdf/2001.04385.pdf
