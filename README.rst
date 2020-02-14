@@ -28,7 +28,8 @@ Scientific ML IAP
 
 Papers
 ------------------
-* Chris Rackauckas, preprint, 2020, Universal_Differential_Equations_for_Scientific_Machine_Learning_
+Papers are hosted here:
+https://github.com/MIT-AI-Accelerator/sciml-papers
 
 
 Still need help ? Email petermor@mit.edu
